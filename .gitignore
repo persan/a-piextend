@@ -8,3 +8,4 @@
 gpsauto.cgpr
 *-loc.xml
 /.gen
+.clang-format
